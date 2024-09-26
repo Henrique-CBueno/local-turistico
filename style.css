@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#page{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.headline{
+    margin-top: 64px;
+    font-size: 16px;
+    color: #E1624F;
+}
+
+/* .headline1{
+    margin-top: 64px;
+    font-size: 16px;
+    color: #E1624F;
+} */
+
+h1,h2,h3,h4,h5,p{
+    margin-left: 415px;
+}
+
+.title{
+    font-size: 36px;
+    color: #1B1B1B;
+    margin-top: 20px;
+}
+
+.top_image{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.text{
+    margin-right: 380px;
+}
+
+
+.negrito{
+    font-weight: bold;
+}
+
+
+.historia{
+    color: #0C51A7;
+}
